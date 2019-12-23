@@ -1,0 +1,17 @@
+1. Encapsulation
+     The purpose of encapsulation is to wrap a class and keep whatever is in that class, 
+     both methods and attribute, so that it cannot be accessed by other classes.
+
+2. Inheritance
+    Inheritance in object-oriented programming is a technique in which a class can inherit 
+    its attributes and methods in other classes (called subclasses).
+
+3. Polymorphims 
+    Polymorphims means different classes but come from one parent can have the same 
+    method but different ways of implementing it. Or in other words, a fuction will have 
+    different behavior if passed o different classes.
+
+4. Abstraction 
+    Abstraction is a process of hiding the implementation details from user. Only the 
+   functionality will be provided the user. in Java, abstraction is achieved using abstraction 
+   classes and interfaces.
